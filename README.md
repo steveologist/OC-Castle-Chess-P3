@@ -44,6 +44,7 @@ Once the code has been downloaded, go to the project directory and enter the fol
 Once you are in the directory containing the project, run Flake8 by executing the following command:
   
   `flake8 --format=html --htmldir=flake-report .`
+  OR
    `flake8 main.py`
 
 
