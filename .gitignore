@@ -1,0 +1,6 @@
+/env
+/datas
+.idea
+/venv
+venv/
+.venv
